@@ -1,0 +1,87 @@
+body {
+    background-image: url(image/superb-view-over-new-york-wallpaper-preview.jpg)
+    
+
+}
+
+
+h1{
+    color: lightblue;
+    font-size: 70px;
+    text-align: center;
+    
+}
+
+h3 {
+    color: rgb(92, 139, 155);
+}
+#Charline {
+height: 390px;
+width: 300px;
+border-radius: 150px;
+padding: 50px;
+}
+
+#div1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(174, 182, 182);
+    padding: 50px;
+    margin: 30px auto;
+border-radius: 8px;
+width: 600px;
+height: 900px;
+
+}
+
+#facebook  {
+    height: 100px;
+    width: 100px;
+    margin: 40px;
+    opacity: 1;
+}
+
+#facebook :hover {
+    opacity: 0.3;
+}
+
+#div2 {
+
+    background-color: rgb(174, 182, 182);
+    padding: 50px;
+    margin: 30px auto;
+    width: 500px;
+    height: 400;
+text-align: center;
+align-items: center;
+}
+
+h2 {
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: lightblue;
+}
+
+#div3 {
+    
+    background-color: rgb(174, 182, 182);
+    padding: 50px;
+    margin: 30px auto;
+    width: 500px;
+    height: 400;
+    text-align: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#film {
+    height: 150px;
+    width: 240px;
+    align-self: center;
+    text-size-adjust: 15px;}
+
+#travel {
+    height: 150px;
+    width: 130px;
+
+}
